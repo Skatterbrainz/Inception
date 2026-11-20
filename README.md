@@ -10,3 +10,4 @@ Randomized Random Randomness Randomly Randomized
   - See the README for more
 - [Helium PowerShell module 1.8.0](./Helium/)
   - Added -SecretName parameter to Publish-GalleryUpdate to leverage secret management for API key
+  - Renamed Set-TLS12 to Set-TLS and added parameter support for 1.2 and 1.3 (1.2 is the default)
