@@ -2,6 +2,12 @@
 
 Randomized Random Randomness Randomly Randomized
 
+# 2026-11-22
+
+- [GistMover](./GistMover/)
+  - Updated launcher shell script
+  - Created AppImage release
+
 # 2026-11-20
 
 - [LinuxTools PowerShell module 1.5.0](./LinuxTools/)
