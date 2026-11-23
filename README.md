@@ -4,11 +4,11 @@ Randomized Random Randomness Randomly Randomized
 
 # 2026-11-22
 
-- [GistMover](https://github.com/Skatterbrainz/GistMover/)
+- [GistMover 1.0.0](https://github.com/Skatterbrainz/GistMover/)
   - Updated launcher shell script
   - Created AppImage release 1.0
-- [OSQuery](https://github.com/Skatterbrainz/OSquery/)
-  - 2.2.0 released with updates for -Verbose to show queries
+- [OSQuery 2.2.0](https://github.com/Skatterbrainz/OSquery/)
+  - Added -Verbose to show queries across all functions
   - Added Get-OsQueryUptime
   - Updated Get-OsQueryInstalledPackages to query all package tables as single response
   - Added Get-OsQueryPackageSources to return all apt and yum sources
@@ -17,6 +17,8 @@ Randomized Random Randomness Randomly Randomized
   - Added Get-OsQueryFirefoxAddOns
   - Added Get-OsQueryMounts
   - Added Get-OsQueryUSBDevices
+- [Helium 1.8.0](https://github.com/Skatterbrainz/Helium/)
+  - Updated: Publish-GalleryUpdate to read from environment variables or secrets: PSGALLERY, PSGALLERY_API or PSAPIKEY
 
 # 2026-11-20
 
